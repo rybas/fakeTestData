@@ -1,0 +1,37 @@
+{
+    "respuesta": {
+        "codigo": "00000",
+        "descripcion": "OK"
+    },
+    "usuarios": [
+        {
+            "uuid": "cn=TestApellido1 TestApellido2 X TestNombre1 | 571283845X,ou=Personas,o=mdef,c=es",
+            "usn": "testUser",
+            "nombre": "TEST NAME",
+            "apellido1": "TETS APELLIDO1",
+            "apellido2": "TEST APELLIDO2",
+            "grupos": [
+                "AR",
+                "A_TA",
+                "BASICO",
+                "CC",
+                "EA",
+                "ET",
+                "PORTAL",
+                "PP_V_A"
+            ]
+        },
+      {
+            "uuid": "cn=TestApellido3 TestApellido4 X TestNombre2 | 471283845X,ou=Personas,o=mdef,c=es",
+            "usn": "testUser2",
+            "nombre": "TEST NAME2",
+            "apellido1": "TETS APELLIDO3",
+            "apellido2": "TEST APELLIDO4",
+            "grupos": [
+                "AR",
+                "A_TA"
+            ]
+        }
+    ],
+    "totalregistros": "2"
+}
